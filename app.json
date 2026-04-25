@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Régime 30 Jours",
+    "slug": "regime-30-jours",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0f0f0f",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0f0f0f"
+    },
+    "android": {
+      "package": "com.regime.trentejours",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#0f0f0f"
+      }
+    },
+    "plugins": [],
+    "extra": {
+      "eas": {
+        "projectId": "9090af07-0060-4006-b615-c2081e7a94dd"
+      }
+    }
+  }
+}
